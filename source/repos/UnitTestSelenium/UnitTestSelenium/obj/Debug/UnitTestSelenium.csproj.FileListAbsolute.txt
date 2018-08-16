@@ -1,0 +1,16 @@
+c:\users\nita.alexandra\source\repos\UnitTestSelenium\UnitTestSelenium\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\nita.alexandra\source\repos\UnitTestSelenium\UnitTestSelenium\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\nita.alexandra\source\repos\UnitTestSelenium\UnitTestSelenium\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\nita.alexandra\source\repos\UnitTestSelenium\UnitTestSelenium\bin\Debug\UnitTestSelenium.dll
+c:\users\nita.alexandra\source\repos\UnitTestSelenium\UnitTestSelenium\bin\Debug\UnitTestSelenium.pdb
+c:\users\nita.alexandra\source\repos\UnitTestSelenium\UnitTestSelenium\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\nita.alexandra\source\repos\UnitTestSelenium\UnitTestSelenium\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\nita.alexandra\source\repos\UnitTestSelenium\UnitTestSelenium\bin\Debug\WebDriver.dll
+c:\users\nita.alexandra\source\repos\UnitTestSelenium\UnitTestSelenium\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\nita.alexandra\source\repos\UnitTestSelenium\UnitTestSelenium\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\nita.alexandra\source\repos\UnitTestSelenium\UnitTestSelenium\bin\Debug\WebDriver.xml
+c:\users\nita.alexandra\source\repos\UnitTestSelenium\UnitTestSelenium\obj\Debug\UnitTestSelenium.csprojResolveAssemblyReference.cache
+c:\users\nita.alexandra\source\repos\UnitTestSelenium\UnitTestSelenium\obj\Debug\UnitTestSelenium.csproj.CoreCompileInputs.cache
+c:\users\nita.alexandra\source\repos\UnitTestSelenium\UnitTestSelenium\obj\Debug\UnitTestSelenium.csproj.CopyComplete
+c:\users\nita.alexandra\source\repos\UnitTestSelenium\UnitTestSelenium\obj\Debug\UnitTestSelenium.dll
+c:\users\nita.alexandra\source\repos\UnitTestSelenium\UnitTestSelenium\obj\Debug\UnitTestSelenium.pdb

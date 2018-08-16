@@ -1,0 +1,4 @@
+c:\users\nita.alexandra\source\repos\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.vbprojResolveAssemblyReference.cache
+c:\users\nita.alexandra\source\repos\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.Resources.resources
+c:\users\nita.alexandra\source\repos\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.vbproj.GenerateResource.cache
+c:\users\nita.alexandra\source\repos\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.vbproj.CoreCompileInputs.cache
